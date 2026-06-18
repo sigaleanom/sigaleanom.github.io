@@ -6,8 +6,8 @@ title: blank                 # leave as 'blank' so your full name is used
 first_name: Simon
 middle_name: Pedro
 last_name: Galeano Muñoz
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#You can even add a little note about which of these is the best way to reach you.
 description: >               # site tagline / meta description
   Personal website of Simon Pedro Galeano Muñoz — PhD student in the Bayesian Deep Learning group at KAUST, working on probabilistic and generative modeling for scalable inference.
 footer_text: >
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: page_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sigaleanom.github.io
 baseurl: ""                  # ⚠️ MUST be empty for a personal <user>.github.io site (default is "/al-folio" — change it or the site breaks)

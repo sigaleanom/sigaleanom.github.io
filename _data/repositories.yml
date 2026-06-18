@@ -1,9 +1,8 @@
-github_users:
-  - sigaleanom
-  - SimonPeterG
+#github_users:
+#  - sigaleanom
+#  - SimonPeterG
 
 repo_description_lines_max: 2
 
 github_repos:
   - SimonPeterG/TENDE
-  - SimonPeterG/DIPHINE
